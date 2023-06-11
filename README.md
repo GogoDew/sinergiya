@@ -1,4 +1,4 @@
-# Этот сайт
+#  Simple Online Auction
 ## Вебаукцион
 ### Install packages: composer update
 ### Edit ".env" file
